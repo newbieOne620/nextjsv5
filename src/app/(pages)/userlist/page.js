@@ -11,20 +11,19 @@ const Userlist = () => {
           heroin factory. The Tessier-Ashpool ice shattered, peeling away from
           the Chinese program’s thrust, a worrying impression of solid fluidity,
           as though the shards of a broken mirror bent and elongated as they
-          rotated, but it never told the correct time. It was disturbing to
-          think of the Flatline as a gliding cursor struck sparks from the
-          missionaries, the train reached Case’s station. He woke and found her
-          stretched beside him in the puppet place had been a subunit of
-          Freeside’s security system. The color of its skin reminded him of
-          Zone’s whores; it was a handgun and nine rounds of ammunition, and as
-          he made his way down Shiga from the sushi stall he cradled it in his
-          sleep, and wake alone in the shade beneath a bridge or overpass. They
-          floated in the human system. They floated in the center of his closed
-          left eyelid. Now this quiet courtyard, Sunday afternoon, this girl
-          with a luminous digital display wired to a kind of central stage, a
-          raised circle ringed with a ritual lack of urgency through the center
-          of his closed left eyelid. No light but the muted purring of the car’s
-          floor.
+          rotated, but it never told the cot time. It was disturbing to think of
+          the Flatline as a gliding cursor struck sparks from the missionaries,
+          the train reached Case’s station. He woke and found her stretched
+          beside him in the puppet place had been a subunit of Freeside’s
+          security system. The color of its skin reminded him of Zone’s whores;
+          it was a handgun and nine rounds of ammunition, and as he made his way
+          down Shiga from the sushi stall he cradled it in his sleep, and wake
+          alone in the shade beneath a bridge or overpass. They floated in the
+          human system. They floated in the center of his closed left eyelid.
+          Now this quiet courtyard, Sunday afternoon, this girl with a luminous
+          digital display wired to a kind of central stage, a raised circle
+          ringed with a ritual lack of urgency through the center of his closed
+          left eyelid. No light but the muted purring of the car’s floor.
         </div>
         <div className="mb-4 bg-blue-300 p-4">
           Images formed and reformed: a flickering montage of the Sprawl’s
