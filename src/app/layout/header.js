@@ -11,7 +11,7 @@ function Header({ toggleDrawer }) {
         >
           <FaBars />
         </buton>
-        NHA COSDD
+        LOGO
       </div>
       <div>logout</div>
     </div>

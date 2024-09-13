@@ -16,7 +16,7 @@ const Mainlayout = ({ children }) => {
       <div className="flex flex-1">
         <Sidebar isDrawerOpen={isDrawerOpen} />
         {/* <aside className="bg-gray-200 w-1/4 p-4">Sidebar</aside> */}
-        <main className="flex-1 p-4  ">{children}</main>
+        <main className="flex-1 p-4    ">{children}</main>
       </div>
       <Footer />
     </div>
