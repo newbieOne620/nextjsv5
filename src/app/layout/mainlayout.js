@@ -11,14 +11,14 @@ const Mainlayout = ({ children }) => {
     setIsDrawerOpen(!isDrawerOpen);
   };
   return (
-    <div className="bg-gray-100 min-h-screen w-screen">
+    <div className="flex flex-col bg-gray-100 h-screen overflow-hidden">
       <Header toggleDrawer={toggleDrawer} />
-      <div className="flex justify-start items-start   ">
+      <div className="flex flex-1">
         <Sidebar isDrawerOpen={isDrawerOpen} />
-
-        <main className="flex-1 ">{children}</main>
+        {/* <aside className="bg-gray-200 w-1/4 p-4">Sidebar</aside> */}
+        <main className="flex-1 p-4  ">{children}</main>
       </div>
-      {/* <Footer /> */}
+      <Footer />
     </div>
   );
 };
